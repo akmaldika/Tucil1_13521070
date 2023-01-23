@@ -10,4 +10,8 @@ Just friend remainder
 
 23 Jan
 1. Buat output (2J) v
-2. buat doc (2J) v
+2. buat doc laporan (2J) v
+
+24. Jan
+1. Error check (2J) v
+2. Upload vvvvvvv
