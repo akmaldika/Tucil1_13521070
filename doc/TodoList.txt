@@ -1,0 +1,13 @@
+Just friend remainder
+
+21 Jan 23
+1. Buat Input keyboard, file , rand  (2J) v
+2. Brainstorming cara permutasi (till get) v
+
+22 Jan 23
+1. Buat pemrosesan data (2J) v
+2. Buat permutasi (4J) v
+
+23 Jan
+1. Buat output (2J) v
+2. buat doc (2J) v
